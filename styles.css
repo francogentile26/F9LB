@@ -224,3 +224,18 @@ ol li:nth-child(odd) {
         height: 500px; /* Altura fija para la tabla en móviles */
     }
 }
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #000200; /* Un color llamativo */
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #0004f0; /* Cambio de color al pasar el mouse */
+}
